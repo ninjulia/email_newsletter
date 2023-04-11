@@ -42,6 +42,6 @@ Users should be able to:
 
 Email coded by Julia Czarnecki with a lot of help from Litmus and Email on Acid. Any and all copyrighted material is property of the copyright owners. Placeholder logo image provided by placeholder.com. Placeholder images provided by [placeholder.com](https://placeholder.com/logos/) both are used under [Creative Commons Licensing](https://creativecommons.org/).
 
-## Email on Acid Rendering:
+## Links
 
-[https://app.emailonacid.com/app/acidtest/zEjccxzH3lqJObBgT9GxVfywb7dzYqMYHgPPO6SeMtjxY/list](https://app.emailonacid.com/app/acidtest/zEjccxzH3lqJObBgT9GxVfywb7dzYqMYHgPPO6SeMtjxY/list)
+- View Email: [https://ninjulia.github.io/email_newsletter/](https://ninjulia.github.io/email_newsletter/)
